@@ -1,1 +1,1 @@
-Non-license
+Without a license
